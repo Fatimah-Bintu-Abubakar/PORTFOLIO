@@ -1,7 +1,17 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Fatimah Bintu Abubakar 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello!🤓 i am a Data and Business Analyst. I turn raw data into actionable business strategies. With 3 years of experience in data analytics, I specialize in the entire data lifecyclefrom cleaning and mining complex datasets to building reports that drive effective decision-making.
+
+My passion lies in finding the 'why' behind the numbers. I leverage tools like  Excel, SQL and Power Bi to solve problems in Businesses, ultimately helping teams reduce costs and increase efficiency. 
+
+Open to opportunities where I can apply deep analysis to solve challenging business problems.
+
+
+
+
+
+
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
