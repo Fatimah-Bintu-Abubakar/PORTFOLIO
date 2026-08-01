@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Your Name**
+# 👋 Hi, I'm **Fatimah Bintu Abubakar**
 
 ### **Data Analyst | SQL • Power BI • Excel**
 
