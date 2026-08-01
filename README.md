@@ -4,8 +4,7 @@
 
 I enjoy uncovering trends, solving business problems, and presenting insights in ways that are clear, impactful, and easy to understand. I'm also committed to continuous learning and actively expanding my skills in Python, Microsoft Fabric, Azure, and modern data technologies.
 
----
-
+---\\------------------------
 # 🎯 Core Expertise
 Data Analysis
 Dashboard Development
