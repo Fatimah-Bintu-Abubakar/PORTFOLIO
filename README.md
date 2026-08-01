@@ -2,7 +2,7 @@
 
 **I'm a Data Analyst with professional experience using SQL, Power BI, and Microsoft Excel to analyze data, build interactive dashboards, and support data-driven decision-making**.
 
-I enjoy uncovering trends, solving business problems, and presenting insights in ways that are clear, impactful, and easy to understand. I'm also committed to continuous learning and actively expanding my skills in Python, Microsoft Fabric, Azure, and modern data technologies.
+**I enjoy uncovering trends, solving business problems, and presenting insights in ways that are clear, impactful, and easy to understand. I'm also committed to continuous learning and actively expanding my skills in Python, Microsoft Fabric, Azure, and modern data technologies.**
 
 ---\\------------------------
 # 🎯 Core Expertise
