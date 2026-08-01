@@ -2,9 +2,6 @@
 
 **I'm a Data Analyst passionate about transforming raw, messy data into meaningful insights that drive smarter business decisions. I enjoy solving business problems with data, building interactive dashboards, uncovering trends, and presenting insights in ways that everyone can understand. Whether it's Excel, SQL, Power BI, or Python, I love turning numbers into clear stories that create real impact.**
 
-
-
---Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
 *As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
