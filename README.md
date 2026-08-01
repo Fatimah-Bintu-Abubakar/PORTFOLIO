@@ -36,7 +36,7 @@ On April 15, 1912, during her maiden voyage, the widely considered â€œunsink
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](week 1 internship project.png)
 
 Unfortunately, there werenâ€™t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
