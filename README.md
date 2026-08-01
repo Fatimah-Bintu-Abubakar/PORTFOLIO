@@ -1,58 +1,20 @@
-# 👋 Hi, I'm **Fatimah Bintu Abubakar**
+#  About Me
 
-### **Data Analyst | SQL • Power BI • Excel**
-
-> **Transforming raw data into actionable insights through analytics, dashboards, and data storytelling.**
-
-Welcome to my portfolio! This repository showcases projects that demonstrate my ability to solve business problems using data. Each project highlights my analytical process from understanding the business challenge to delivering actionable recommendations.
-
----
-
-# 💼 About Me
-
-I'm a **Data Analyst** with professional experience using **SQL, Power BI, and Microsoft Excel** to analyze data, build interactive dashboards, and support data-driven decision-making.
+**I'm a Data Analyst with professional experience using SQL, Power BI, and Microsoft Excel to analyze data, build interactive dashboards, and support data-driven decision-making**.
 
 I enjoy uncovering trends, solving business problems, and presenting insights in ways that are clear, impactful, and easy to understand. I'm also committed to continuous learning and actively expanding my skills in Python, Microsoft Fabric, Azure, and modern data technologies.
 
 ---
 
 # 🎯 Core Expertise
-
-* 📊 Data Analysis
-* 📈 Dashboard Development
-* 📉 Data Visualization
-* 🧹 Data Cleaning & Transformation
-* 📋 KPI Reporting
-* 📖 Data Storytelling
-* 💼 Business Intelligence
-* 📌 Business Performance Analysis
-
----
-
-# 🛠 Tech Stack
-
-### Analytics
-
-* SQL
-* Microsoft Excel
-* Power BI
-
-### Productivity
-
-* Microsoft PowerPoint
-
-### Version Control
-
-* Git
-* GitHub
-
-### Currently Learning
-
-* Python
-* Microsoft Fabric
-* Azure Data Fundamentals
-* Advanced DAX
-* Data Engineering Concepts
+Data Analysis
+Dashboard Development
+Data Visualization
+Data Cleaning & Transformation 
+KPI Reporting
+Data Storytelling
+Business Intelligence
+Business Performance Analysis
 
 ---
 
