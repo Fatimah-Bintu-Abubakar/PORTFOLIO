@@ -28,7 +28,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](HR DASHBORD.png)
 
 On April 15, 1912, during her maiden voyage, the widely considered â€œunsinkableâ€ RMS Titanic sank after colliding with an iceberg. 
 
