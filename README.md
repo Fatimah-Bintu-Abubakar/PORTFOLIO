@@ -34,7 +34,7 @@ On April 15, 1912, during her maiden voyage, the widely considered â€œunsink
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Tracking sales across regions Online retail Dataset .**
+**Tracking sales across regions Online retail Dataset.**
 
 ![image](week 1 internship project.png)
 
