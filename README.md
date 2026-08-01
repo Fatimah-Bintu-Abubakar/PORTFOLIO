@@ -34,11 +34,11 @@ On April 15, 1912, during her maiden voyage, the widely considered â€œunsink
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Tracking sales across regions Online retail Dataset .**
 
 ![image](week 1 internship project.png)
 
-Unfortunately, there werenâ€™t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+United State has the highest sales , there werenâ€™t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
