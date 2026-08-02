@@ -15,8 +15,9 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 
 <!--Section 2: List 3-4 key projects-->
-## some
-seandrojects spse of some of the projects I've been working on.*
+## My Projects  
+
+ectsspseespse of some of the been I've been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Titaniimageaset.**
 ![image](NETFLIC SNIP.png)
