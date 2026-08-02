@@ -4,19 +4,18 @@
 
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+**As Data Analyst intern at Analyst Lab Africa I carry out Data Transformation, modeling and visualization using Excel, SQL and Power bi.**     
 
-**- âœ… Data Analytics Consulting.**
+
+*- âœ… Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
-**- âœ… Staff Training & Development.**
+**                       **
 I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
-
-*A glimpse of some of the projects I've been working on.*
+## MY   projects spse of some of the projects I've been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 ![image](NETFLIC SNIP.png)
