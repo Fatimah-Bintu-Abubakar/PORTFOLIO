@@ -7,7 +7,7 @@
 **As Data Analyst intern at Analyst Lab Africa I carry out Data Transformation, modeling and visualization using Excel, SQL and Power bi.**     
 
 
-*- âœ… Data Analytics Consulting.**
+* Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
 **                       **
@@ -15,9 +15,10 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY   projects spse of some of the projects I've been working on.*
+## some
+seandrojects spse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Predictive Modeling and Hypothesis Testing using Titaniimageaset.**
 ![image](NETFLIC SNIP.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
