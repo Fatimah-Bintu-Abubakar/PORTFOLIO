@@ -1,6 +1,6 @@
 #  About Me
 
-**I'm a Data Analyst passionate about transforming raw, messy data into meaningful insights that drive smarter business decisions. I enjoy solving business problems with data, building interactive dashboards, uncovering trends, and presenting insights in ways that everyone can understand. Whether it's Excel, SQL, Power BI, or Python, I love turning numbers into clear stories that create real impact.**
+**I turn messy data into actionable insights and clear stories that drive smarter business decisions. Using Excel, SQL, Power BI, and Power point, I build dashboards, uncover trends, and deliver impact everyone can understand.**
 
 ## WHAT I DO
 
