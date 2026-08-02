@@ -44,16 +44,16 @@ United State has the highest sales , there werenâ€™t enough lifeboats for e
 
 ## CONTACT DETAILS
 
-*Letâ€™s connect and see how we can make a difference together!*
+**Lets connect to unravel some mysteries together!**
 <table>
   <tbody>
     <tr>
       <td>ðŸ“§</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:abubakarfatimahbintu@gmail.com">abubakarfatimahbintu@gmail.com</a></td>
     </tr>
     <tr>
       <td>ðŸ“ž</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 814-447-9553</td>
     </tr>
     <tr>
       <td>ðŸ“</td>
@@ -65,7 +65,9 @@ United State has the highest sales , there werenâ€™t enough lifeboats for e
     </tr>
     <tr>
       <td>ðŸŒ</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="www.linkedin.com/in/
+data-driven
+">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>ðŸ“º</td>
