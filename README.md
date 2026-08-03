@@ -7,8 +7,8 @@
 **As Data Analyst intern at Analyst Lab Africa I carry out Data Transformation, modeling and visualization using Excel, SQL and Power bi.**     
 
 
-* Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**Data Analytics Consulting.**
+**I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth.** 
 
 **                       **
 I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
@@ -17,9 +17,9 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 <!--Section 2: List 3-4 key projects-->
 ## My Projects  
 
-ectsspseespse of some of the been I've been working on.*
+Here is a glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titaniimageaset.**
+**Exploratory Data Analytics Using Netflix movies dataset .**
 ![image](NETFLIC SNIP.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
@@ -54,16 +54,16 @@ United State has the highest sales , there werenâ€™t enough lifeboats for e
       <td><a href="mailto:abubakarfatimahbintu@gmail.com">abubakarfatimahbintu@gmail.com</a></td>
     </tr>
     <tr>
-      <td>ðŸ“ž</td>
+      <td>Contact</td>
       <td>(234) 814-447-9553</td>
     </tr>
     <tr>
-      <td>ðŸ“</td>
-      <td>PH, Nigeria</td>
+      <td>Location</td>
+      <td>Edo State, Nigeria</td>
     </tr>
     <tr>
-      <td>â¬‡ï¸</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td>CV</td>
+      <td><a href="https://">Download my CV</a></td>
     </tr>
     <tr>
       <td>ðŸŒ</td>
