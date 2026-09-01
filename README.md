@@ -5,15 +5,6 @@
 ## WHAT I DO
 
 **As Data Analyst intern at Analyst Lab Africa I carry out Data Transformation, modeling and visualization using Excel, SQL and Power bi.**     
-
-
-**Data Analytics Consulting.**
-**I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth.** 
-
-**                       **
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
-
-
 <-->
 ## My Projects  
 
