@@ -29,6 +29,15 @@ Built an interactive Power BI dashboard 4 years (2014–2018) of Superstore sale
 **Nigeria Telecom Subscribers Trend Dashboard (2021–2024)**
  Tracking voice and internet subscription trends across Nigeria's telecom market using NCC operator-level data.
 Business Problem: On the surface, subscriber numbers look healthy  but a closer look at the year-over-year trend reveals a market shift that's easy to miss if you only glance at headline totals.
+![image](Nigeria telecom pic.png)
+
+
+
+
+
+
+
+
 ![image]( NETFLIC SNIP.png)
 
 On April 15, 1912, during her maiden voyage, the widely considered â€œunsinkableâ€ RMS Titanic sank after colliding with an iceberg. 
