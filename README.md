@@ -25,6 +25,7 @@ Tracking voice and internet subscription trends across Nigeria's telecom market 
 [Read More](https://www.linkedin.com/posts/fatimah-bintu-abubakar_3mtt-dataanalytics-powerbi-activity-7496184686495420416-1WdP?utm_source=share&utm_medium=member_android&rcm=ACoAAEoNgjgBKRYZXISBC28P9RFEUrVT0QokkKg
 
 **Business Analysis — Chinook Music Store Database**
+![image](sql chinook pic.png)
 Wrote SQL queries against the Chinook database to answer key business questions about customers, revenue, and product performance for a digital music store.
 Problem: Raw invoice and customer data needed to be turned into insights that could guide business decisions — who the most valuable customers are, which markets drive revenue, and what content sells best.
 [Read]
