@@ -14,17 +14,16 @@
 I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
 
 
-<!--Section 2: List 3-4 key projects-->
+<-->
 ## My Projects  
 
-Here is a glimpse of some of the projects I've been working on.*
+Here is a glimpse of some of the projects I've been working on.
 
-**Exploratory Data Analytics Using Netflix movies dataset .**
+**Superstore Sales Performance Dashboard**
 ![image](SUPER STORE DASHBOARD.png)
+Banan  anteractive Power BI dashboard analyzing 4 years (2014–2018) of Superstore sales data to uncover which regions, categories, and products were driving,or draining  profitability.
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
-
-
+**Business Problem:** Revenue was growing steadily, but leadership had no visibility into where profit was leaking or which segments needed corrective action..
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **Predictive Modeling and Hypothesis Testing using Titanic SUPER*
