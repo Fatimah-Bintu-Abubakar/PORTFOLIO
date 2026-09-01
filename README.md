@@ -38,13 +38,11 @@ Wrote SQL queries against the Chinook database to answer key business questions 
 Problem: Raw invoice and customer data needed to be turned into insights that could guide business decisions — who the most valuable customers are, which markets drive revenue, and what content sells best.
 
 
-
-
+**Netflix Content Analysis Dashboard**
 ![image]( NETFLIC SNIP.png)
-
-On April 15, 1912, during her maiden voyage, the widely considered â€œunsinkableâ€ RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+Built a Power BI dashboard analyzing Netflix's content catalog to uncover patterns in show growth, ratings, and global content distribution.
+**Problem:** With thousands of titles across countries, genres, and formats, understanding what content strategy Netflix has followed  and where the catalog is concentrated  isn't obvious from raw data alone.
+[Read More](
 
 **Tracking sales across regions Online retail Dataset.**
 
