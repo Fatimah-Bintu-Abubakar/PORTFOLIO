@@ -31,11 +31,11 @@ Excel and Powerbi project.
 Tracking voice and internet subscription trends across Nigeria's telecom market using NCC operator-level data.
 Business Problem: On the surface, subscriber numbers look healthy  but a closer look at the year-over-year trend reveals a market shift that's easy to miss if you only glance at headline totals.
 ![image](Nigeria telecom pic.png)
-
-
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-
+** Business Analysis — Chinook Music Store DatabSQL**
+Wrote SQL queries against the Chinook database to answer key business questions about customers, revenue, and product performance for a digital music store.
+Problem: Raw invoice and customer data needed to be turned into insights that could guide business decisions — who the most valuable customers are, which markets drive revenue, and what content sells best.
 
 
 
