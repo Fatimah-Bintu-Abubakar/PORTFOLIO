@@ -15,7 +15,7 @@ Here is a glimpse of some of the projects I've been working on.
 Built an interactive Power BI dashboard 4 years (2014–2018) of Superstore sales data to uncover which regions, categories, and products were driving,or draining  profitability.
 
 **Business Problem:** Revenue was growing steadily, but leadership had no visibility into where profit was leaking or which segments needed corrective action..
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietiModeli*
+[Read More](
 
 **Nigeria Telecom Subscribers Trend Dashboard (2021–2024)**
 ![image](Nigeria telecom pic.png)
@@ -44,21 +44,19 @@ Built a Power BI dashboard analyzing Netflix's content catalog to uncover patter
 
 United State has the highest sales , there werenâ€™t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
 
 ## CONTACT DETAILS
 
-**Lets connect to unravel some mysteries together!**
+**Lets connect**
 <table>
   <tbody>
     <tr>
-      <td>ðŸ“§</td>
+      <td>Email</td>
       <td><a href="mailto:abubakarfatimahbintu@gmail.com">abubakarfatimahbintu@gmail.com</a></td>
     </tr>
     <tr>
       <td>Contact</td>
-      <td>(234) 814-447-9553</td>
+      <td>(+234) 8144479553</td>
     </tr>
     <tr>
       <td>Location</td>
@@ -69,14 +67,7 @@ United State has the highest sales , there werenâ€™t enough lifeboats for e
       <td><a href="https://">Download my CV</a></td>
     </tr>
     <tr>
-      <td>ðŸŒ</td>
-      <td><a href="www.linkedin.com/in/
-data-driven
-">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>ðŸ“º</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td>LinkedIn</td>
     </tr>
   </tbody>
 </table>
