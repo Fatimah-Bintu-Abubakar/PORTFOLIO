@@ -20,14 +20,14 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 Here is a glimpse of some of the projects I've been working on.*
 
 **Exploratory Data Analytics Using Netflix movies dataset .**
-![image](NETFLIC SNIP.png)
+![image](SUPER STORE DASHBOARD.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Predictive Modeling and Hypothesis Testing using Titanic SUPER*
 
 ![image](HR DASHBORD.png)
 
