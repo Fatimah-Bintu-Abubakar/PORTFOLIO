@@ -21,7 +21,7 @@ Here is a glimpse of some of the projects I've been working on.
 
 **Superstore Sales Performance Dashboard**
 ![image](SUPER STORE DASHBOARD.png)
-Built an  4 years (2014–2018) of Superstore sales data to uncover which regions, categories, and products were driving,or draining  profitability.
+Built an interactive Power BI dashboard 4 years (2014–2018) of Superstore sales data to uncover which regions, categories, and products were driving,or draining  profitability.
 
 **Business Problem:** Revenue was growing steadily, but leadership had no visibility into where profit was leaking or which segments needed corrective action..
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietiModeli*
