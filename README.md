@@ -21,13 +21,14 @@ Here is a glimpse of some of the projects I've been working on.
 
 **Superstore Sales Performance Dashboard**
 ![image](SUPER STORE DASHBOARD.png)
-Banan  anteractive Power BI dashboard analyzing 4 years (2014–2018) of Superstore sales data to uncover which regions, categories, and products were driving,or draining  profitability.
+Built an  4 years (2014–2018) of Superstore sales data to uncover which regions, categories, and products were driving,or draining  profitability.
 
 **Business Problem:** Revenue was growing steadily, but leadership had no visibility into where profit was leaking or which segments needed corrective action..
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietiModeli*
 
-**Predictive Modeling and Hypothesis Testing using Titanic SUPER*
-
+**Nigeria Telecom Subscribers Trend Dashboard (2021–2024)**
+ Tracking voice and internet subscription trends across Nigeria's telecom market using NCC operator-level data.
+Business Problem: On the surface, subscriber numbers look healthy  but a closer look at the year-over-year trend reveals a market shift that's easy to miss if you only glance at headline totals.
 ![image]( NETFLIC SNIP.png)
 
 On April 15, 1912, during her maiden voyage, the widely considered â€œunsinkableâ€ RMS Titanic sank after colliding with an iceberg. 
