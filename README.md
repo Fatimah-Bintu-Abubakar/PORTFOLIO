@@ -27,11 +27,13 @@ Built an interactive Power BI dashboard 4 years (2014–2018) of Superstore sale
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietiModeli*
 
 **Nigeria Telecom Subscribers Trend Dashboard (2021–2024)**
- Tracking voice and internet subscription trends across Nigeria's telecom market using NCC operator-level data.
+Excel and Powerbi project.
+Tracking voice and internet subscription trends across Nigeria's telecom market using NCC operator-level data.
 Business Problem: On the surface, subscriber numbers look healthy  but a closer look at the year-over-year trend reveals a market shift that's easy to miss if you only glance at headline totals.
 ![image](Nigeria telecom pic.png)
 
 
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 
 
