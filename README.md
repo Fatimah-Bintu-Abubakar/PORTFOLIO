@@ -23,10 +23,10 @@ Built an interactive Power BI dashboard 4 years (2014–2018) of Superstore sale
 Problem:Revenue was growing steadily, but leadership had no visibility into where profit was leaking or which segments needed corrective action..
 [Read More](
 
-**Business Analysis,Chinook Store**
+**Chinook Store Analysis**
 ![image](sql chinook pic.png)
 Wrote SQL queries against the Chinook database to answer key business questions about customers, revenue, and product performance for a digital music store.
-problem: invoice and customerneeded to be turned into insights that could guide business decisions — who the most valuable customers are, which markets drive revenue, and what content sells best.
+problem: invoice and customer needed  to be turned into insights that could guide business decisions — who the most valuable customers are, which markets drive revenue, and what content sells best.
 [Read More](https://www.linkedin.com/posts/fatimah-bintu-abubakar_sql-dataanalytics-analystlabafrica-activity-7486812389988876288-ss85?utm_source=share&utm_medium=member_android&rcm=ACoAAEoNgjgBKRYZXISBC28P9RFEUrVT0QokkKg)
 
 **Netflix Content Analysis Dashboard**
@@ -58,7 +58,7 @@ Best selling products, Which year generated more revenue?, Which product is gene
     </tr>
     <tr>
       <td>CV</td>
-      <td><a href="https://">Download my CV</a></td>
+      <td><a href="[(https://drive.google.com/file/d/1ved_MSZ3sktN2ekl9HT9-UH-YCgWHr0k/view?usp=drivesdk):Downloadload my CV</a></td>
     </tr>
     <tr>
       <td>LinkedIn</td>
