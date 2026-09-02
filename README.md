@@ -27,7 +27,7 @@ Tracking voice and internet subscription trends across Nigeria's telecom market 
 
 **Business Analysis,Chinook Store**
 ![image](sql chinook pic.png)
-Wrote SQL queries against the Chinook database to answer key business questions about customers, revenue, and product performance for a digital music store
+Wrote SQL queries against the Chinook database to answer key business questions about customers, revenue, and product performance for a digital music store.
 
 *Problem*: Raw invoice and customer data needed to be turned into insights that could guide business decisions — who the most valuable customers are, which markets drive revenue, and what content sells best.
 [Read More](DatabaseSQL://www.linkedin.com/posts/fatimah-bintu-abubakar_sql-dataanalytics-analystlabafrica-activity-7486812389988876288-ss85?utm_source=share&utm_medium=member_android&rcm=ACoAAEoNgjgBKRYZXISBC28P9RFEUrVT0QokkKg)
