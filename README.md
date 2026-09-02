@@ -7,7 +7,8 @@
 **As Data Analyst intern at Analyst Lab Africa I carry out Data Transformation, modeling and visualization using Excel, SQL and Power bi.**     
 
 ## My Projects  
-Here is a glimpse of some of the projects I've been working on.
+Here is a glimpse of some of the projects I've been working on
+.
 **Nigeria Telecom Subscribers Trend Dashboard (2021–2024)**
 ![image](Nigeria telecom pic.png)
 Excel and Powerbi project.
