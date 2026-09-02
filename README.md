@@ -58,22 +58,11 @@ Best selling products, Which year generated more revenue?, Which product is gene
     </tr>
     <tr>
       <td>CV</td>
-      <td><a href="[(https://drive.google.com/file/d/1ved_MSZ3sktN2ekl9HT9-UH-YCgWHr0k/view?usp=drivesdk):Downloadload my CV</a></td>
+      <td><a href="https://drive.google.com/file/d/1ved_MSZ3sktN2ekl9HT9-UH-YCgWHr0k/view?usp=drivesdk">Download my CV</a></td>
     </tr>
     <tr>
-      <td>LinkedIn</td>
+      <td>LinkedIn</td>
+      <td><a href="YOUR_LINKEDIN_URL_HERE">View my LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
-
-   
-
-
-
-
-
-
-
-
-
-
